@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>6C2 Time Table</title>
+</head>
+<body>
+    <div>
+        <table border="1" style="border-bottom-style: solid">
+            <tr>
+            <td>
+                <div>
+        <table border="0px" cellpadding="10" cellspacing="5">
+            <tr>
+                <td rowspan="2"><img src="./images/mu_logo_.jpg" alt="mu_logo" height="100px" width="300px"></td>
+                <td colspan="4"align="center"><b>Faculty of Engineering<br>Department of Computer Engineering</b></td>
+            </tr>
+            <tr>
+                <td colspan="3"><b>Semester: VI</b><br><b>Class Room: </b>MB204/MB205/MA211<br><b>Class Coordinator: </b>Prof. Rekha Regar (cabin no. MA307-B, Ext no. 1302)</td>
+                <td><b>W. E. Date: </b>17/12/2018<br><b>Division:-</b>6C2</td>
+            </tr>
+        </table>
+    </div>
+    
+    <div>
+        <table border="0px" cellpadding="20" cellspacing="1">
+            <tr align="center" bgcolor="#80aaff">
+                <td><b>Sr. No.</b></td>
+                <td><b>TIME</b></td>
+                <td><b>MON</b></td>
+                <td><b>TUE</b></td>
+                <td><b>WED</b></td>
+                <td><b>THU</b></td>
+                <td><b>FRI</b></td>
+            </tr>
+            <tr align="center">
+                <td>1</td>
+                <td>7:30 - 8:30</td>
+                <td>AJ - TAB<br>MB205</td>
+                <td>SE - KS<br>MB205</td>
+                <td>AJ - TAB<br>MA211</td>
+                <td>SE - KS<br>MB205</td>
+                <td rowspan="2" bgcolor="#80aaff">
+                    <table>
+                        <tr align="center">
+                            <td>A<br><br>SE<br>KS<br><br>MB202</td>
+                            <td>B<br><br>AJ<br>TAB<br><br>LAB13</td>
+                            <td>C<br><br>WT<br>NV<br><br>LAB11</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr align="center">
+                <td>2</td>
+                <td>8:30 - 9:30</td>
+                <td>DE IIB-KS<br>MB202</td>
+                <td>TOC-RR<br>MB205</td>
+                <td>SE - KS<br>MA211</td>
+                <td>WT - NV<br>MB205</td>
+            </tr>
+            <tr align="center" bgcolor="#80aaff">
+                <td></td>
+                <td colspan="6">9:30-9:40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEA BREAK</td>
+            </tr>
+            <tr align="center">
+                <td>3</td>
+                <td>9:40 - 10:40</td>
+                <td>WT - NV<br>MB204</td>
+                <td rowspan="2" bgcolor="#80aaff">
+                    <table>
+                        <tr align="center">
+                            <td>A<br><br>DNT<br>NCS<br><br>LAB12</td>
+                            <td>B<br><br>SE<br>KS<br><br>LAB11</td>
+                            <td>C<br><br>AJ<br>TAB<br><br>LAB14</td>
+                        </tr>
+                    </table>
+                </td>
+                <td>TOC-RR<br>MA211</td>
+                <td>DNT - NCD<br>MB205</td>
+                <td>AJ - JBT<br>LAB13</td>
+            </tr>
+            <tr align="center">
+                <td>4</td>
+                <td>10:40 - 11:35</td>
+                <td>TOC - RR<br>MB204</td>
+                <td>TOC - RR<br>MA211</td>
+                <td>AJ - TAB<br>MB205</td>
+                <td>AJ - JBT<br>LAB13</td>
+            </tr>
+            <tr align="center" bgcolor="#80aaff">
+                <td></td>
+                <td colspan="6">11:35-11:55&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TEA BREAK</td>
+            </tr>
+            <tr align="center">
+                <td>5</td>
+                <td>11:55 - 12:55</td>
+                <td>DNT - NCD<br>MB204</td>
+                <td rowspan="2" bgcolor="#80aaff">
+                    <table>
+                        <tr align="center">
+                            <td>A<br><br>WT<br>NV<br><br>LAB4</td>
+                            <td>B<br><br>DNT<br>NCD<br><br>LAB12</td>
+                            <td>C<br><br>SE<br>KS<br><br>LAB16</td>
+                        </tr>
+                    </table>
+                </td>
+                <td>DNT - NCD<br>MA211</td>
+                <td rowspan="2" bgcolor="#80aaff">
+                    <table>
+                        <tr align="center">
+                            <td>A<br><br>AJ<br>TAB<br><br>LAB3</td>
+                            <td>B<br><br>WT<br>NV<br><br>LAB16</td>
+                            <td>C<br><br>DNT<br>NCD<br><br>LAB12</td>
+                        </tr>
+                    </table>
+                </td>
+                <td>WT - NV<br>MB204</td>
+            </tr>
+            <tr align="center">
+                <td>6</td>
+                <td>12:55 - 1:55</td>
+                <td>WT - NV<br>MB204</td>
+                <td>SE - KS<br>MA211</td>
+                <td>DNT - NCD<br>MB204</td>
+            </tr>
+            <!--<tr>
+            </tr>-->
+        </table>
+    </div>
+    
+    <div>
+        <table border="0px" cellpadding="17" cellspacing="1">
+            <tr bgcolor="#80aaff">
+                <td colspan="3" align="center"><b>SUBJECT NAMES AND CODES</b></td>
+                <td colspan="4" align="center"><b>LAB PREMISES</b></td>
+                <td colspan="3" align="center"><b>FACULTY INITIALS AND NAMES</b></td>
+            </tr>
+            <tr>
+                <td align="center"><b>SE</b></td>
+                <td align="center"><b>2160701</b></td>
+                <td align="left">Software Engineering</td>
+                <td align="center"><b>SE</b></td>
+                <td align="left">LAB NO:11,16,MB202</td>
+                <td></td>
+                <td></td>
+                <td align="center"><b>JBT</b></td>
+                <td align="left">PROF. JAY B. TERAIYA</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td align="center"><b>AJ</b></td>
+                <td align="center"><b>2160707</b></td>
+                <td align="left">Advance Java</td>
+                <td align="center"><b>AJ</b></td>
+                <td align="left">LAB NO:14,3,13</td>
+                <td></td>
+                <td></td>
+                <td align="center"><b>TAB</b></td>
+                <td align="left">PROF. TARANNUM BLOCH</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td align="center"><b>TOC</b></td>
+                <td align="center"><b>2160704</b></td>
+                <td align="left">Theory of Computation</td>
+                <td align="center"><b>WT</b></td>
+                <td align="left">LAB NO:4,11,16</td>
+                <td></td>
+                <td></td>
+                <td align="center"><b>NV</b></td>
+                <td align="left">PROF. NIKHIL VADHER</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td align="center"><b>WT</b></td>
+                <td align="center"><b>2160708</b></td>
+                <td align="left">Web Technology</td>
+                <td align="center"><b>DNT</b></td>
+                <td align="left">LAB NO:12</td>
+                <td></td>
+                <td></td>
+                <td align="center"><b>NCD</b></td>
+                <td align="left">PROF. NIRALI C. DUTIYA</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td align="center"><b>DNET</b></td>
+                <td align="center"><b>2160711</b></td>
+                <td align="left">.NET Techonology</td>
+                <td align="center"><b></b></td>
+                <td align="left"></td>
+                <td></td>
+                <td></td>
+                <td align="center"><b>KS</b></td>
+                <td align="left">PROF. KRISHNA SUCHAK</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td align="center"><b>DE-II B</b></td>
+                <td align="center"><b>2160001</b></td>
+                <td align="left">Design Engineering - II B</td>
+                <td align="center"><b></b></td>
+                <td align="left"></td>
+                <td></td>
+                <td></td>
+                <td align="center"><b>RR</b></td>
+                <td align="left">PROF. REKHA REGAR</td>
+                <td></td>
+            </tr>
+        </table>
+    </div>
+            </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
