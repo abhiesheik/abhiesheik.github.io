@@ -25,10 +25,10 @@ int main()
                 total2 = total2 + i;
             }
         }
-        if(itr == total2)
+        if(itr == total2 && total1 != total2)
         {
             printf("%d %d \n",total1, total2);
-            grandTotal = grandTotal + total1 + total2;    
+            grandTotal = grandTotal + itr;    
         }
     }
     printf("%d",grandTotal);
